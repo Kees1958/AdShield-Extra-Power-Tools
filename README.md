@@ -32,7 +32,7 @@ SCREENPRINTS
 
 Element picker
 
-<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/4fb7be05-0e42-41bf-92f4-7b1d9d38a528" />
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/10124476-a44b-4855-a96a-e6631927b7cc" />
 
 
 Cookie consent clicker
