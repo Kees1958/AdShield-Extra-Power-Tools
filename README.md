@@ -26,3 +26,32 @@ Based on AdGuard's allowlist. Easily copy and paste domains into the allow list 
 
 SECURITY & PRIVACY
 Includes an option to delete browser history on startup (except passwords), plus eight additional Security & Privacy protections, each with a very low risk of breaking websites.
+
+SCREENPRINTS
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/eae71321-e1cd-4907-8fb0-162d8731e0d0" />
+
+Element picker
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/4fb7be05-0e42-41bf-92f4-7b1d9d38a528" />
+
+
+Cookie consent clicker
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/8e4605c1-10b2-41ac-b32a-e1cf5e7723b3" />
+
+
+Dynamic DNR filtering
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/da6c3615-9f99-4545-85d9-9ceb3a23c69c" />
+
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/1ab89a5b-4c45-4706-8082-c462e7d6e8aa" />
+
+
+Filter (block) list & Worry-free settings
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/ae3d2339-fe66-4e36-b62a-b7fd811591e5" />
+
+
+
+
+
