@@ -52,7 +52,7 @@ Filter (block) list & Worry-free settings
 
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/ae3d2339-fe66-4e36-b62a-b7fd811591e5" />
 
-PRIVacy & security
+Privacy & security
 
 <img width="720" height="599" alt="image" src="https://github.com/user-attachments/assets/0c354dc5-b012-4058-9e7b-9de7c935e212" />
 
