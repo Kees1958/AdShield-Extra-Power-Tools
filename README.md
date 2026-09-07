@@ -24,8 +24,8 @@ Built-in filter lists — Kees1958's curated EU+US ads & tracking list, AdGuard 
 ALLOW (WHITE) LIST
 Based on AdGuard's allowlist. Easily copy and paste domains into the allow list to disable filtering on that domain.
 
-SECURITY & PRIVACY
-Includes an option to delete browser history on startup (except passwords), plus eight additional Security & Privacy protections, each with a very low risk of breaking websites.
+PRIVACY & SECURITY 
+Includes an option to delete browser history on startup (except passwords), plus strong additional Security & Privacy protections, each with a low risk of breaking websites.
 
 SCREENPRINTS
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/eae71321-e1cd-4907-8fb0-162d8731e0d0" />
@@ -50,6 +50,10 @@ Dynamic DNR filtering
 
 Filter (block) list & Worry-free settings
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/ae3d2339-fe66-4e36-b62a-b7fd811591e5" />
+
+PRIVacy & security
+<img width="720" height="599" alt="image" src="https://github.com/user-attachments/assets/0c354dc5-b012-4058-9e7b-9de7c935e212" />
+
 
 
 
