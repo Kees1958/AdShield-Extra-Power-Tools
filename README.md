@@ -1,10 +1,7 @@
-ADSHIELD EXTRA adds a set of Power Tools on top of Brave's own built-in ad blocker (Shields) — Worry-Free Safe Surfing, a Privacy Inspector, Dynamic DNR filtering, and a Cookie Consent Clicker — plus its own curated block lists for extra ad and tracker coverage. Everything runs locally in your browser; nothing is sent anywhere.
+ADSHIELD EXTRA adds a set of Power Tools on top any adblocker — Worry-Free Safe Surfing, a Privacy Inspector, Dynamic DNR filtering, and a Cookie Consent Clicker — plus its own curated block lists for extra ad and tracker coverage. Everything runs locally in your browser; nothing is sent anywhere.
 
 WORRY-FREE SAFE SURFING
 One-click protection boost for a chosen session (20/60 min/session) when doing random surfing. It tries to auto-dismiss cookie banners, and — for the duration of the session — turns on extra security protections and a download/third-party-code filter that only allows familiar, low-risk regions. That familiar-region list starts from a sensible default (based on your browser's own language setting) but you can freely edit, save, or restore it yourself in the Filter (block) lists panel.
-
-COSMETIC ELEMENT PICKER
-This is uBO's element picker (only a popup is added to explain how it works). Draw a box around any annoying element on a page to permanently hide it.
 
 COOKIE CONSENT CLICKER
 Automate your cookie consent on the websites you visit often. Simply launch the Cookie-clicker and click the (accept) button to create a rule for it. Next time you open the website, the cookie prompt will be clicked away automatically.
@@ -29,10 +26,6 @@ Includes an option to delete browser history on startup (except passwords), plus
 
 SCREENPRINTS
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/eae71321-e1cd-4907-8fb0-162d8731e0d0" />
-
-Element picker
-
-<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/10124476-a44b-4855-a96a-e6631927b7cc" />
 
 
 Cookie consent clicker
