@@ -50,7 +50,8 @@ Dynamic DNR filtering
 
 Filter (block) list & Worry-free settings
 
-<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/ae3d2339-fe66-4e36-b62a-b7fd811591e5" />
+<img width="853" height="610" alt="image" src="https://github.com/user-attachments/assets/fff26260-2bc0-4b4b-adab-0259a2913247" />
+
 
 Privacy & security
 
