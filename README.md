@@ -25,7 +25,8 @@ PRIVACY & SECURITY
 Includes an option to delete browser history on startup (except passwords), plus strong additional Security & Privacy protections, each with a low risk of breaking websites.
 
 SCREENPRINTS
-<img width="1280" height="800" alt="popup AdShield Extra" src="https://github.com/user-attachments/assets/4ecb4b86-60de-4a0a-bc67-11ea531dc289" />
+<img width="1400" height="560" alt="ASE promotie" src="https://github.com/user-attachments/assets/4ff84193-5264-4021-a8ce-a1f97c135b76" />
+
 
 
 
